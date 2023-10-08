@@ -4,7 +4,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-
+circulo.exe
+ReadMe.txt
+triangulo.exe
 # Local History for Visual Studio Code
 .history/
 
